@@ -1,0 +1,32 @@
+.course-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  width: 100%;
+  background-color: #e8e8e8;
+}
+.course-item {
+  align-self: center;
+  display: flex;
+  width: 60%;
+  background-color: white;
+  border-radius: 12px;
+}
+.img {
+  width: 35%;
+  margin-right: 20px;
+}
+.item-head {
+  font-size: 30px;
+  font-family: 'Roboto';
+}
+.item-para {
+  font-size: 18px;
+  font-family: 'Roboto';
+  line-height: 40px;
+  margin-right: 8px;
+}
+.failure {
+  align-self: center;
+}

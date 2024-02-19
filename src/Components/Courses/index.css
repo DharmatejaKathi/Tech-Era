@@ -1,0 +1,13 @@
+.ul {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding-left: 60px;
+  margin-top: 20px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

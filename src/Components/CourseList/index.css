@@ -1,0 +1,29 @@
+.list {
+  list-style-type: none;
+  margin-right: 5%;
+  margin-bottom: 4%;
+  display: flex;
+  width: 210px;
+  align-items: center;
+  cursor: pointer;
+}
+.logo {
+  width: 90px;
+  margin-right: 18px;
+}
+.name {
+  color: #1e293b;
+  font-weight: bold;
+  font-size: 18px;
+  font-family: 'Roboto';
+}
+.link {
+  text-decoration: none;
+  list-style-type: none;
+  margin-right: 5%;
+  margin-bottom: 4%;
+  display: flex;
+  width: 210px;
+  align-items: center;
+  cursor: pointer;
+}

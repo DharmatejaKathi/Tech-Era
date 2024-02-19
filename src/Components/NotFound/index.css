@@ -1,0 +1,9 @@
+.bad {
+  width: 40%;
+}
+.bad-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
